@@ -1,0 +1,2 @@
+module.exports.apiLoginKey = '22Rxntc4H2NU' //'22Rxntc4H2NU';// whitesnow1992=> '8r2Qg7Ad6';
+module.exports.transactionKey = '338773cfZUUw7M9g' // '338773cfZUUw7M9g'; // whitesnow1992=> '9kU84pTz3L759WC2';
